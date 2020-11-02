@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="400" height="400" version="1.1" xmlns="http://www.w3.org/2000/svg">
+	<ellipse stroke="black" stroke-width="1" fill="none" cx="106.5" cy="169.5" rx="30" ry="30"/>
+	<text x="92.5" y="175.5" font-family="Times New Roman" font-size="20">Off</text>
+	<ellipse stroke="black" stroke-width="1" fill="none" cx="106.5" cy="313.5" rx="30" ry="30"/>
+	<text x="94.5" y="319.5" font-family="Times New Roman" font-size="20">On</text>
+	<ellipse stroke="black" stroke-width="1" fill="none" cx="286.5" cy="313.5" rx="30" ry="30"/>
+	<text x="264.5" y="319.5" font-family="Times New Roman" font-size="20">Blink</text>
+	<ellipse stroke="black" stroke-width="1" fill="none" cx="286.5" cy="169.5" rx="30" ry="30"/>
+	<text x="268.5" y="175.5" font-family="Times New Roman" font-size="20">Dim</text>
+	<polygon stroke="black" stroke-width="1" points="136.5,313.5 256.5,313.5"/>
+	<polygon fill="black" stroke-width="1" points="256.5,313.5 248.5,308.5 248.5,318.5"/>
+	<text x="145.5" y="334.5" font-family="Times New Roman" font-size="20">Button Press</text>
+	<polygon stroke="black" stroke-width="1" points="286.5,283.5 286.5,199.5"/>
+	<polygon fill="black" stroke-width="1" points="286.5,199.5 281.5,207.5 291.5,207.5"/>
+	<text x="291.5" y="247.5" font-family="Times New Roman" font-size="20">Button Press</text>
+	<polygon stroke="black" stroke-width="1" points="106.5,199.5 106.5,283.5"/>
+	<polygon fill="black" stroke-width="1" points="106.5,283.5 111.5,275.5 101.5,275.5"/>
+	<text x="-0.5" y="247.5" font-family="Times New Roman" font-size="20">Button Press</text>
+	<polygon stroke="black" stroke-width="1" points="256.5,169.5 136.5,169.5"/>
+	<polygon fill="black" stroke-width="1" points="136.5,169.5 144.5,174.5 144.5,164.5"/>
+	<text x="145.5" y="160.5" font-family="Times New Roman" font-size="20">Button Press</text>
+</svg>
